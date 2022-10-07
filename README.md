@@ -20,7 +20,7 @@ The Space Travelers' Hub consists of Rockets, Missions, and the My Profile secti
 ## Getting Started
 
 ``` console
-desktop:~$ git clone "git@github.com:kusiLaw/math_magicians.git"
+desktop:~$ git clone "https://github.com/Bateyjosue/Space_Travelers_Hub.git"
 desktop:~$ npm install
 desktop:~$ npm start
 starting server:~$ npm run dev.
